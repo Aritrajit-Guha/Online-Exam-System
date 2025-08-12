@@ -52,6 +52,28 @@ The system includes automatic scoring, violation detection, and exam termination
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Teacher Dashboard](/images/Screenshot%202025-08-12%20151437.png)
+
+### Teacher Login
+![Exam Creation](/images/Screenshot%202025-08-12%20151447.png)
+
+### Teacher Dashboard
+![Exam Link](/images/Screenshot%202025-08-12%20151501.png)
+
+### Exam Results View
+![Student Interface](/images/Screenshot%202025-08-12%20151512.png)
+
+### Proctoring Violation Alert
+![Violation Alert](/images/Screenshot%202025-08-12%20151556.png)
+
+### Student Exam Interface
+![Results Page](/images/Screenshot%202025-08-12%20151621.png)
+
+---
+
 ## 🌟 Advantages
 - Simple and fast exam setup.
 - No complicated student onboarding.
